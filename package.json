@@ -15,7 +15,7 @@
     "katex": "^0.16.8",
     "react-katex": "^3.0.1",
     "framer-motion": "^10.16.4",
-    "lucide-react": "^0.263.1"
+    "lucide-react": "^0.468.0"
   },
   "devDependencies": {
     "typescript": "^5",
